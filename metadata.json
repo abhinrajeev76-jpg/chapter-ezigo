@@ -1,0 +1,6 @@
+{
+  "name": "EZIGO",
+  "description": "Integrated Student, Faculty, Attendance, Fee, Examination, and Academic Progress Management System for Chapter Educational Institute, Thazhava",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
